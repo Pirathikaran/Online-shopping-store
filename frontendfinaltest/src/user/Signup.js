@@ -69,7 +69,7 @@ const Signup = () => {
                 />
             </div>
             <button onClick={clickSubmit} className="btn btn-primary">
-                Submit
+                SUBMIT
             </button>
         </form>
     );
